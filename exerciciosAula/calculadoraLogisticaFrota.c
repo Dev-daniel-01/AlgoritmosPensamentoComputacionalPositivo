@@ -15,8 +15,8 @@ int main() {
     custo  = litros * preco;
 
     printf("\n--- RELATORIO ---\n");
-    printf("%-8s %8.2f L\n",   "Litros:", litros);
-    printf("%-8s R$ %6.2f\n",  "Custo:",  custo);
+    printf("Litros: %.2f\n", litros);
+    printf("Custo: R$ %6.2f",  custo);
 
     return 0;
 }
