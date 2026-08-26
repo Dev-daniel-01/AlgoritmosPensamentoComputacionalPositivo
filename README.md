@@ -1,0 +1,2 @@
+# AlgoritmosPensamentoComputacionalPositivo
+Atividade das Aulas 
